@@ -43,7 +43,7 @@ Open source, MIT-licensed, and right here on GitHub:
 - 💚 **[ArchitectUI Vue Free](https://github.com/DashboardPack/architectui-vue-theme-free)** — minimal Vue admin, SaaS-panel ready
 - 🅰️ **[ArchitectUI Angular Free](https://github.com/DashboardPack/architectui-angular-theme-free)** — Angular 22 + Bootstrap admin panel
 
-More free dashboards at [dashboardpack.com/free-templates](https://dashboardpack.com/free-templates/?utm_source=github&utm_medium=org-profile&utm_campaign=github-dashboardpack-profile).
+More free dashboards at [dashboardpack.com/freebies](https://dashboardpack.com/freebies/?utm_source=github&utm_medium=org-profile&utm_campaign=github-dashboardpack-profile).
 
 ---
 
