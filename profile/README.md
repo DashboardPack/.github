@@ -6,18 +6,18 @@ clean code, and real support, at **[dashboardpack.com](https://dashboardpack.com
 
 <p align="center">
   <a href="https://dashboardpack.com/theme-details/apex-dashboard-nextjs/?utm_source=github&utm_medium=org-profile&utm_campaign=github-dashboardpack-profile">
-    <img alt="Apex Dashboard" src="profile/assets/apex.png" width="49%">
+    <img alt="Apex Dashboard" src="assets/apex.png" width="49%">
   </a>
   <a href="https://dashboardpack.com/theme-details/zenith-shadcn/?utm_source=github&utm_medium=org-profile&utm_campaign=github-dashboardpack-profile">
-    <img alt="Zenith Dashboard" src="profile/assets/zenith.png" width="49%">
+    <img alt="Zenith Dashboard" src="assets/zenith.png" width="49%">
   </a>
 </p>
 <p align="center">
   <a href="https://dashboardpack.com/theme-details/haze-dashboard-nuxt/?utm_source=github&utm_medium=org-profile&utm_campaign=github-dashboardpack-profile">
-    <img alt="Haze Dashboard" src="profile/assets/haze.png" width="49%">
+    <img alt="Haze Dashboard" src="assets/haze.png" width="49%">
   </a>
   <a href="https://dashboardpack.com/theme-details/admindek-html/?utm_source=github&utm_medium=org-profile&utm_campaign=github-dashboardpack-profile">
-    <img alt="Admindek Dashboard" src="profile/assets/admindek.png" width="49%">
+    <img alt="Admindek Dashboard" src="assets/admindek.png" width="49%">
   </a>
 </p>
 
